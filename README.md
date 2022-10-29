@@ -26,7 +26,7 @@ At some point, we may wish to update the app. We may also wish to stop providing
 
 - [Support Server](https://discord.gg/wuWr5HJnN2)
 - [Community Server](https://discord.gg/wuWr5HJnN2)
-- If above links doesn't work or channels are locked mail us, helprazerbot@gmail.com
+- If above links doesn't work or channels are locked mail us, violentdevelopment@gmail.com
 
 **Thank you for using our service**
 
